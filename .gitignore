@@ -1,0 +1,7 @@
+*.pcap
+*.log
+*.dump
+*.txt
+sniff_output/
+temp/
+
